@@ -316,6 +316,7 @@ func DefaultProfile() *types.Seccomp {
 				"symlinkat",
 				"sync",
 				"sync_file_range",
+				"sync_file_range2",
 				"syncfs",
 				"sysinfo",
 				"syslog",
